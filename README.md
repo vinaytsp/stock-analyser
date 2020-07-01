@@ -1,3 +1,3 @@
 # stock-analyser
-Mini project(Incomplete)
+Mini project(Incomplete)<br>
 A STOCK MARKET ANALYSER APPLICATION USED TO VISUALISE DATA OVER A GIVEN RANGE OF DATES AND PLOT ACCORDINGLY
